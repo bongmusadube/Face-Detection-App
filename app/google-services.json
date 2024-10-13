@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161404645868",
+    "project_id": "biometricauth-b3be0",
+    "storage_bucket": "biometricauth-b3be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161404645868:android:abf144fabcc2e6e65d50c9",
+        "android_client_info": {
+          "package_name": "com.example.biometricauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVnMC7KPPVDbD9ZR7R4LAKf204ESecc4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
